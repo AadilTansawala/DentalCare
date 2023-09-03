@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/aadil2002/DentalCare-ReactJS-Website/static/css/main.31d6cfe0.css",
+    "main.js": "/aadil2002/DentalCare-ReactJS-Website/static/js/main.e59bad3f.js",
+    "index.html": "/aadil2002/DentalCare-ReactJS-Website/index.html",
+    "main.e59bad3f.js.map": "/aadil2002/DentalCare-ReactJS-Website/static/js/main.e59bad3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e59bad3f.js"
+  ]
+}
